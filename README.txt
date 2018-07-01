@@ -1,4 +1,5 @@
 
+
 Course&Section: CPSC 351-01 
 
 Group Members:
@@ -33,8 +34,9 @@ Dayna Anderson:     - Worked on Project2.cpp
                     - Primary Implementation/design collaborator.
 
 Stephen Lastimosa:  - Assisted with Project2.cpp design and Design of Document1
-                    - Contributed understanding of datastructures and system simulation.
+                    - Primary implementation of linux co
+                    - Contributed understanding of datastructures, system simulation and linux command line.
 
-Ian Alvarez:        - Assisted with Project2.cpp design and Design of Document1
+Ian Alvarez:        - Assisted with Project2.cpp design
+                    - Primary implementation of design doc
                     - Contributed understanding of file extraction and data structures
-
