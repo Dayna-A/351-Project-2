@@ -10,9 +10,12 @@ Stephen Lastimosa - slastimosa92@csu.fullerton.edu
 Ian Alvarez - ian_alvarez23@csu.fullerton.edu
 
 Programming Language Used: C++
-
+ 
 Execution:     
 
+$	make 
+
+$	./simulator in1.txt
 
 
 To complete this project outside of the classroom time, we would communicate over Slack. Slack is a workspace chat channel specified for the Computer Science industry. Occasionally through text as well. We met after class twice to go over code we did not understand. Overall, it was well planned teamwork and it resulted in working code, intended design, and functioning output. 
