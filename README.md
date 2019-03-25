@@ -1,5 +1,5 @@
 # Project 1 - System Simulation 
-A project for CPSC 479 High Performance Computing at CSUF
+A project for CPSC 351 Operating Systems at CSUF
 
 ## Created by 
 [Dayna Anderson](dayna.anderson@csu.fullerton.edu)
